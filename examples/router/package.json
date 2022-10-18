@@ -38,7 +38,7 @@
     "expect": "^1.8.0",
     "express": "^4.13.3",
     "jsdom": "^5.6.1",
-    "mocha": "^2.2.5",
+    "mocha": "^10.1.0",
     "node-libs-browser": "^0.5.2",
     "raw-loader": "^0.5.1",
     "react-addons-test-utils": "^0.14.0",
